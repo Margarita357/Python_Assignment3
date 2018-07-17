@@ -1,0 +1,12 @@
+PyPoll Results
+    Total votes: 3521002  
+        Candidate : 0.00%  (1)
+  
+        Khan : 0.63%  (2218231)
+  
+        Correy : 0.20%  (704200)
+  
+        Li : 0.14%  (492940)
+  
+        O'Tooley : 0.03%  (105630)
+WINNER: Khan 
